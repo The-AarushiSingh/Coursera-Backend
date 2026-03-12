@@ -67,3 +67,5 @@ see purchased couses
 purchase a course
 
 ### Added Routers -> express.router
+
+### create DB schema
